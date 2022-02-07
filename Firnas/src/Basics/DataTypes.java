@@ -23,8 +23,19 @@ public class DataTypes {
 		int i = 2147483647;
 		long l = 9223372036854775807L;
 		
+		//Floating Point - (float, double)
+		float f = 10.233F;
+		double d = 10.2333333333333333;
+		
+		//Character - (char)
+		char c = 'a';
+		char a = 97; //ASCII - American Standard Code for Information Interchange
+		
+		//Boolean - (boolean)
+		boolean bb = true;
+		bb =false;
 		
 		
-		//
+		
 	}
 }
