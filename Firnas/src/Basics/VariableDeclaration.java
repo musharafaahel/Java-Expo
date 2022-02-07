@@ -13,7 +13,7 @@ public class VariableDeclaration {
 		int age;
 		
 		System.out.println("Num = "+num+" Age = "+(age=200));
-		//Even though if you assign values to variable in output statement it will be stored and it can retrived through out that method in which it has been declared
+		//Even though if you assign values to variable in output statement it will be stored and it can retrieved through out that method in which it has been declared
 		System.out.println("Age = "+age);
 		
 	}
