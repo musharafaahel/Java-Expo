@@ -10,7 +10,7 @@ public class GettingInput {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter your age : ");
 		age = scan.nextInt();
-		
+		scan.close();
 		System.out.println("Your age after 10 years : "+(age + 10));
 	}
 }
