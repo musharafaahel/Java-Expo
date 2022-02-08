@@ -25,6 +25,12 @@ public class NamingRules {
 		 * nam e
 		 * #name
 		 * &nam e
+		 * 
+		 * 
+		 * Naming Rules
+		 * 
+		 * 1.Variable Name, Method Name, Package Name first letter should be small
+		 * 2.Class Name first letter should be Capital
 		 *
 		 */
 		
