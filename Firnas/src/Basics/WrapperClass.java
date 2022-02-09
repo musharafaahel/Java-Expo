@@ -30,5 +30,20 @@ public class WrapperClass {
 		 *  string --> String
 		 * 
 		 */
+		
+		Byte b  = 100;
+		Short s = 32000;
+		Integer i = 2147483647;
+		Long l = 9_223_372_036_854_775_807L;
+		
+		Float f = 10.23F;
+		Double d = 10.233333333333;
+		
+		Character c = 'A';
+		
+		Boolean bb = true;
+		
+		
+		
 	}
 }
