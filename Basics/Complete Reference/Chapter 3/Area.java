@@ -8,5 +8,6 @@ class Area {
 		a = pi * r * r; // Compute area
 		
 		System.out.println("Area of Circle is  "+a);
+	
 	}
 }
