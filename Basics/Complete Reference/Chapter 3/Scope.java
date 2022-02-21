@@ -4,7 +4,7 @@ class Scope {
 	public static void main(String args[]){
 		int x; //Known to all code within main.
 		
-		x = 10;
+		 x = 10;
 		if(x==10){ //Start new scope
 			int y = 20; // Known only to this block.
 		
