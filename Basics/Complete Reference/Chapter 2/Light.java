@@ -10,7 +10,7 @@ class Light {
 		seconds = days * 24 * 60 * 60; //Convert into seconds
 		distance  = lightspeed * seconds; // Compute distance
 		
-		System.out.print("In "+days);
+		 System.out.print("In "+days);
 		System.out.print(" days light will travel about ");
 		System.out.println(distance + " miles.");
 	}
