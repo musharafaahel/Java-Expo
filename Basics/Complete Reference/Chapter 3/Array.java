@@ -7,7 +7,7 @@ class Array {
 		//int month_days[];
 		//month_days = new int[12];
 
-		//Method - 2
+		 //Method - 2
 		int month_days[] = new int[12];
 		month_days[0] = 31;
 		month_days[1] = 28;
