@@ -7,7 +7,7 @@ class Area {
 		pi =3.1416;     //pi, approximately
 		a = pi * r * r; // Compute area
 		
-		 System.out.println("Area of Circle is  "+a);
+		System.out.println("Area of Circle is  "+a);
 	
 	}
 }
