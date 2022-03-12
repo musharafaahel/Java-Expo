@@ -3,7 +3,7 @@
 	Call this file BoxDemo.java
 */
 
-class Box {
+	class Box {
 	double width;
 	double height;
 	double depth;
