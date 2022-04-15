@@ -14,5 +14,11 @@ public class StringMethodsBasics {
 		String name = fname.concat(" "+lname);
 		System.out.println("Concat Method : "+name);
 		
+		System.out.println("Length Method : "+name.length());
+		
+		System.out.println("ToLowerCase Method : "+name.toLowerCase());
+		
+		System.out.println("ToUpperCase Method : "+name.toUpperCase());
+		
 	}
 }
