@@ -23,5 +23,8 @@ public class StringMethodsIntermidiate {
 		
 		System.out.println("Char At Method : "+ name.charAt(9));
 		System.out.println("Index Of Method :"+name.indexOf("A"));
+		
+		System.out.println("Contains Method : "+ name.contains("Aahel"));
+		
 	}
 }
